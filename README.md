@@ -16,6 +16,7 @@ Currently, the system primarily handles request management but is designed to be
 - **Real-time Updates**: Real-time updates of the request table upon adding/editing/deleting requests.
 - **Modals**: Creative modals for edit and delete functions.
 - **Styling**: Styled using Tailwind CSS and Ant Design frameworks.
+- **Secure Authentication**: Implemented secure User authentication using Clerk.
 - **Extensible Design**: The system is designed to be open for extension, making it easy to add new features such as feedback management, reports generation, and more.
 
 ## How to Setup the Project 🛠️
