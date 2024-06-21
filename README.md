@@ -68,6 +68,6 @@ cd request-management-system
 - The backend server should be running on `http://localhost:5000`.
 
 ## Deliverables 📦
-- **Source Code Repository**: A complete project code on a GitHub repository.
+- **Source Code Repository**: A complete project code on a GitHub repository : [Repository Link]([https://www.google.com](https://github.com/Harish3000/RequeSTAR-Request-management-system))
 - **README File**: Includes setup instructions and project overview.
-- **Demo Video**: A video demonstrating the application's features and functionalities.
+- **Demo Video**: A video demonstrating the application's features and functionalities : [YouTube Link](https://youtu.be/ampjNP4Wcjg)
