@@ -57,7 +57,8 @@ cd request-management-system
    ```bash
    npm install
    ```
-3. Configure environment variables if necessary.
+3. Configure environment variables:
+   - Create a `.env` file in the frontend folder and add the necessary environment variables for authentication purposes, such as your Clerk API keys.
 4. Start the development server:
    ```bash
    npm start
@@ -70,4 +71,4 @@ cd request-management-system
 ## Deliverables 📦
 - **Source Code Repository**: A complete project code on a GitHub repository.
 - **README File**: Includes setup instructions and project overview.
-- **Demo Video**: A video demonstrating the application's features and functionalities : [YouTube Link](https://youtu.be/ampjNP4Wcjg)
+- **Demo Video**: A video demonstrating the application's features and functionalities: [YouTube Link](https://youtu.be/ampjNP4Wcjg)
