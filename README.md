@@ -42,7 +42,7 @@ cd request-management-system
    npm install
    ```
 3. Configure the environment variables:
-   - Create a `.env` file and add your MongoDB connection string and any other necessary configurations.
+   - Create a `.env` file and add your MongoDB connection string and other necessary configurations.
 4. Start the server:
    ```bash
    npm run dev
@@ -58,7 +58,7 @@ cd request-management-system
    npm install
    ```
 3. Configure environment variables:
-   - Create a `.env` file in the frontend folder and add the necessary environment variables for authentication purposes, such as your Clerk API keys.
+   - Create a `.env` file in the frontend folder and add the necessary environment variables for authentication purposes, such as Clerk API keys.
 4. Start the development server:
    ```bash
    npm start
