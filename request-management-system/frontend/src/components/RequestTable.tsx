@@ -309,7 +309,7 @@ const RequestTable: React.FC<RequestTableProps> = ({
             onClick={() => form.submit()}
             style={{ backgroundColor: "#830823", borderColor: "#830823" }}
           >
-            Submit
+            Update
           </Button>,
         ]}
       >
